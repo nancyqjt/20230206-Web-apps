@@ -3,4 +3,5 @@ Rails.application.routes.draw do
     resources "dice"
     resources "card"
     resources "companies"
+    resources "contacts"
 end
